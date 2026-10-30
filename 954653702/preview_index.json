@@ -1,7 +1,7 @@
 {
   "qq_number": "3597612621",
   "group_number": "954653702",
-  "updated_at": "2026-10-30T06:23:40+00:00",
+  "updated_at": "2026-10-30T06:29:40+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -145,6 +145,13 @@
       "thumb": "猫妮期12.bdi_py_26_light_thumb.png",
       "full": "猫妮期12.bdi_py_26_light_thumb.png",
       "file_id": "82c84a20390e4b1d27bd4a099d742b01"
+    },
+    {
+      "name": "猫妮期会12",
+      "file": "猫妮期会12.bds",
+      "thumb": "猫妮期会12.bds_py_26_light_thumb.png",
+      "full": "猫妮期会12.bds_py_26_light_thumb.png",
+      "file_id": "fc4c12b053d393b835853a8322e311ab"
     }
   ]
 }
